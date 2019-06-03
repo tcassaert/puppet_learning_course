@@ -166,6 +166,9 @@ June 11, 2019
 @ulend
 
 +++?code=assets/code_examples/node_definition.pp&lang=puppet&color=#232323
+@snap[north span-100]
+@size[1.5em](Declarative code)
+@snapend
 
 @[1](Node identifier)
 @[2-3](Resources to apply to matching hosts)
@@ -179,7 +182,7 @@ June 11, 2019
 @ul[](false)
 * Module consists of classes
 * Classes are defined in manifests
-* Modules get declared on node
+* Modules get declared on nodes
 
 +++?code=assets/code_examples/module_tree&color=#232323
 
