@@ -153,7 +153,7 @@ June 11, 2019
 * Encrypted
 @ulend
 
-+++?image=assets/img/orange.jpg&position=top&size=100% 20%
+---?image=assets/img/orange.jpg&position=top&size=100% 20%
 
 @snap[north text-white span-100]
 @size[1.5em](Node classification)
