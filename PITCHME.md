@@ -48,21 +48,6 @@ June 11, 2019
 
 ---?image=assets/img/orange.jpg&position=top&size=100% 20%
 @snap[north text-white span-100]
-@size[1.5em](Overview)
-@snapend
-
-@ul[](false)
-* Introduction
-* Puppet Bolt
-* What is Puppet?
-* Basic Puppet structures
-* Declarative code
-* Agent - Server model
-* Classes, manifests, modules
-* Ordering
-@ulend
----?image=assets/img/orange.jpg&position=top&size=100% 20%
-@snap[north text-white span-100]
 @size[1.5em](Introduction)
 @snapend
 
