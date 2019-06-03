@@ -162,6 +162,7 @@ June 11, 2019
 @ul[](false)
 * Catalog request from agent
 * Node classification to check what Puppet code to compile
+  * Node classification not tied to Puppet (e.g. Foreman)
 @ulend
 
 +++?code=assets/code_examples/node_definition.pp&lang=puppet&color=#232323
