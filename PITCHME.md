@@ -221,8 +221,11 @@ June 11, 2019
 @snapend
 
 @ul[](false)
-* Following declaration ordering in manifest
+* Default following declaration ordering in manifest
 * Explicitly define ordering of groups of resources
+* Other options
+  * title-hash
+  * random
 @ulend
 
 +++?code=assets/code_examples/ordering.pp&color=#232323
