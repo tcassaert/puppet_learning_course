@@ -1,0 +1,8 @@
+theme: white
+theme-override: assets/css/PITCHME.css
+highlight: railscasts
+logo: assets/img/puppet_logo.png
+logo-postion: top-left
+layout: center
+footnote: "Puppet learning course"
+published: true

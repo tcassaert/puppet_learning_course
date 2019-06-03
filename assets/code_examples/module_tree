@@ -1,0 +1,13 @@
+.
+├── data
+│   └── common.yaml
+├── examples
+├── files
+│   └── vito.conf
+├── hiera.yaml
+├── manifests
+│   └── init.pp
+├── metadata.json
+├── README.md
+└── templates
+    └── vito_conf.erb

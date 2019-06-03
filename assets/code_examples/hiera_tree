@@ -1,0 +1,14 @@
+$ tree -L hiera-mgmt
+hiera-mgmt
+├── common.yaml
+├── Jenkinsfile
+├── mgmt_dev
+│   └── common.yaml
+├── mgmt_prod
+│   ├── common.yaml
+│   └── nodes
+├── mgmt_vagrant
+│   ├── common.yaml
+│   └── nodes
+├── Rakefile
+└── README.md

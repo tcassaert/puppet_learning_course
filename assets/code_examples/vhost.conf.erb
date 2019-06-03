@@ -1,0 +1,12 @@
+# This file is managed by Puppet.
+# Manual changes will be reverted
+<VirtualHost *:<%= @portnumber %>>
+  ServerName default
+
+  DocumentRoot "<%= @docroot %>"
+
+  <Directory "<%= @docroot %>">
+    Options Indexes FollowSymLinks MultiViews
+    Allow from all
+  </Directory>
+</VirtualHost>

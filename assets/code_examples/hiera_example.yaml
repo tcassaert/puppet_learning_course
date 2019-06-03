@@ -1,0 +1,2 @@
+profile_apache::docroot: '/var/www/vito/site1'
+profile_apache::php_version: '5.6'
