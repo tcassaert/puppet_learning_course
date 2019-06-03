@@ -221,8 +221,8 @@ June 11, 2019
 @snapend
 
 @ul[](false)
-* Default random ordering
-* Specificly defined
+* Following declaration ordering in manifest
+* Explicitly define ordering of groups of resources
 @ulend
 
 +++?code=assets/code_examples/ordering.pp&color=#232323
