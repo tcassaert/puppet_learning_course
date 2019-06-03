@@ -167,7 +167,7 @@ June 11, 2019
 
 +++?code=assets/code_examples/node_definition.pp&lang=puppet&color=#232323
 @snap[north span-100]
-@size[1.5em](Declarative code)
+@size[1.5em](Node classification)
 @snapend
 
 @[1](Node identifier)
