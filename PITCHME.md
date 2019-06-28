@@ -5,7 +5,7 @@ Puppet Learning Course
 @snap[east span-35 text-10]
 Thomas Cassaert
 
-June 11, 2019
+July 1st, 2019
 @snapend
 
 ---?image=assets/img/orange.jpg&position=top&size=100% 20%
