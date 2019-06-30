@@ -9,6 +9,7 @@ class vito_module {
   }
 
   file { '/etc/httpd/http.conf':
-    source =>  'puppet:///modules/vito_module/http.conf',
+    source => 'puppet:///modules/vito_module/http.conf',
+    notify => Service['httpd'],
   }
 }

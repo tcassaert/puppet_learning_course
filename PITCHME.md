@@ -216,7 +216,9 @@ July 1st, 2019
 @[1](Class name)
 @[2-4](Package resource)
 @[6-9](Service resource)
-@[10-13](File resource)
+@[11-14](File resource)
+@[13](Notify the service)
+@[]
 
 ---?image=assets/img/orange.jpg&position=top&size=100% 20%
 @snap[north text-white span-100]
@@ -398,6 +400,7 @@ July 1st, 2019
 * Hierarchically
 * Override defaults
 * YAML
+* Explicit or implicit lookup
 @ulend
 
 +++?code=assets/code_examples/hiera.yaml&lang=yaml&color=#232323
@@ -426,7 +429,7 @@ July 1st, 2019
   * What with multiple vhosts per server?
 @ulend
 
----?image=assets/img/orange.jpg&position=top&size=100% 20%
++++?image=assets/img/orange.jpg&position=top&size=100% 20%
 @snap[north text-white span-100]
 @size[1.5em](Defined types)
 @snapend
