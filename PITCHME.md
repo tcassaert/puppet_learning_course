@@ -218,7 +218,6 @@ July 1st, 2019
 @[6-9](Service resource)
 @[11-14](File resource)
 @[13](Notify the service)
-@[]
 
 ---?image=assets/img/orange.jpg&position=top&size=100% 20%
 @snap[north text-white span-100]
